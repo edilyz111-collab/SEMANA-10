@@ -1,0 +1,10 @@
+--- BACKLOG DE HISTORIAS DE USUARIO (Ordenado por prioridad) ---
+
+[ALTA PRIORIDAD]
+1. Como ciudadano quiero registrar un reporte o incidencia con descripción y ubicación para dejar evidencia pública de un problema en mi comunidad.
+
+[MEDIA PRIORIDAD]
+2. Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se cree un nuevo reporte para revisarlo y asignarlo rápidamente.
+
+[BAJA PRIORIDAD]
+3. Como miembro del equipo de seguimiento quiero cambiar el estado de los reportes (en revisión, resuelto) para mantener informada a la comunidad sobre el avance del caso.
